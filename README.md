@@ -1,5 +1,5 @@
 # Busy
-An application, made as an AndroidStudio project, that contain three types of users, restaurants, costumers and admin. and allow the users to order food from the restaurants near them
+An application, made as an AndroidStudio project, that contain three types of users, restaurants, costumers and admin, and allow the users to order food from the restaurants near them.
 all data is managed in firebase realtime database (https://console.firebase.google.com/project/busy-abf43/database/busy-abf43/data)
 
 ====>CLIENT:
